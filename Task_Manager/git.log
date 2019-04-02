@@ -1,0 +1,35 @@
+commit 6cd5504a101c22efaf151446a804517151e129b1
+Author: Lakhwinder Singh <lakhwinderpalsingh@csus.edu>
+Date:   Wed Mar 7 19:48:35 2018 -0800
+
+    finished all of the code and ready to submit
+
+commit a2609ce3db9669ec15bb5fd3195cc65106df31d3
+Author: Lakhwinder Singh <lakhwinderpalsingh@csus.edu>
+Date:   Wed Mar 7 17:03:32 2018 -0800
+
+    added summary file and refactored the code
+
+commit e5703a45262d2cd97194bd83b4aa38cc7d7cf549
+Author: Lakhwinder Singh <lakhwinderpalsingh@csus.edu>
+Date:   Wed Mar 7 15:32:35 2018 -0800
+
+    copmleted the interface implementation and cleaning up of code
+
+commit 7db40cfc8a46e2c687a366d165283473db28ee06
+Author: Lakhwinder Singh <lakhwinderpalsingh@csus.edu>
+Date:   Sun Mar 4 15:45:02 2018 -0800
+
+    added task,entry and read log class
+
+commit c6925c0bf489343f456e797aee9392e50bc553c4
+Author: Lakhwinder Singh <lakhwinderpalsingh@csus.edu>
+Date:   Sun Mar 4 13:31:26 2018 -0800
+
+    added start stop describe
+
+commit b286cf1dbe6339104ff1ecafd88f38eea9f8a47d
+Author: Lakhwinder Singh <lakhwinderpalsingh@csus.edu>
+Date:   Sun Mar 4 11:15:51 2018 -0800
+
+    started project Sprint 3
